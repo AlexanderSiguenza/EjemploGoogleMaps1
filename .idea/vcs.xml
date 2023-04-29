@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AppCalculadoraMvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppCoroutineDog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EnviarParametros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PruebasUnitariasMVC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RealtimedatabaseKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitAppCrud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLiteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sharedpreferencesapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SplashAPP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/controllistview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example-firebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loginGoogle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loginGoogle/loginGoogle2" vcs="Git" />
+  </component>
+</project>
